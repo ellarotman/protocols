@@ -4,6 +4,8 @@ This protocol describes gene deletion in *V. fischeri* by allelic exchange.
 
 ## Clone the allelic exchange vector
 
+1. Design the deletion so that everything between the ATG and the last six amino acids (and stop codon) is removed. 
+[Link to the paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1681482/)
 1. Clone approximately 1.6 kb upstream DNA and 1.6 kb downstream DNA adjacent to each other. Aim for similar sized upstream and downstream fragments so that crossovers on either flanking side are equally likely. Suggested method: Gibson Assembly cloning in pEVS79. The following protocol assumes a vector containing chloramphenicol resistance was used and the LBS-Cam concentration was 1.0 μg/ml unless otherwise stated.
 
 <!-- add additional info, vectors, pictures, etc. -->
